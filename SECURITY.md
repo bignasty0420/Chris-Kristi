@@ -18,4 +18,4 @@ Use this section to tell people how to report a vulnerability.
 
 Tell them where to go, how often they can expect to get an update on a
 reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
+declined, but don't expect any resolve. I'm trying I'm not liable by anything regarding the information,the pics of likeness of some one famous or taxes
